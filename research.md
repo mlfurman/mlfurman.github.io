@@ -5,9 +5,8 @@ permalink: /research/
 ---
   
 ##Some cool research I am working on!
-1. Helping some guy Neal  
-
- * I am studying classification
+1. Going to Australia
+   * studying  
   
 ### More Information
   
@@ -15,4 +14,7 @@ permalink: /research/
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+<!---
+[mlfurman@ncsu.edu](mailto:email@domain.com)
+-->
+
